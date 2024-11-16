@@ -6,7 +6,8 @@
 
 Most of my work is in private repositories, but feel free to reach out!
 
-- 🐦 [@josiahwiebe](https://twitter.com/josiahwiebe)
+- 𝕏 [@josiahwiebe on X](https://x.com/josiahwiebe)
+- 🦋 [@jwie.be on Bsky](https://bsky.app/profile/jwie.be)
 - ✉️ [hi@jwie.be](mailto:hi@jwie.be)
 - 📍 Manitoba 🇨🇦
 <!--
